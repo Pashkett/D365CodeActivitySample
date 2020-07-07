@@ -17,5 +17,5 @@
   - Contacts count is more than 1:
       - Int Status Result set as 3;
 #### Contact Reference Result:
-- Contacts count is equal to 1:
+  - Contacts count is equal to 1:
       - Contact Reference Result set as Contact EntityReferece
