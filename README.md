@@ -1,4 +1,4 @@
-﻿# D365CodeActivitySample
+﻿# D365CodeActivitySample (SearchContactsByTwoParameters)
 
 ## Description
 ### Primary Entity:
